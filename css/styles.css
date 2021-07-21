@@ -210,7 +210,10 @@ p {
 .restaurantes{
   padding: 0;
 }
-
+.img1{
+  width: 30%;
+}
+  
 
 @media (max-width: 1028px) {
 
