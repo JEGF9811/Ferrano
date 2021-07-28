@@ -159,7 +159,7 @@ p {
 
 #pricing {
   padding: 100px;
-  background-color: #D5BF98;
+  background-color: #DCDFCE;
   color: black;
   font-size: 1.5rem;
 }
@@ -198,7 +198,7 @@ p {
 }
 /* Footer Section */
 .cesteria{
-  width: 50%;
+  width: 60%;
 }
 .vegarden{
   padding-top:1.5rem;
@@ -210,11 +210,13 @@ p {
 .restaurantes{
   padding: 0;
 }
-.img1{
-  width: 30%;
+.queso-img{
+  width: 80%;
+  border: 5px solid #2C0404;
 }
-  
-
+.img{
+  padding: 0;
+}
 @media (max-width: 1028px) {
 
   #title {
